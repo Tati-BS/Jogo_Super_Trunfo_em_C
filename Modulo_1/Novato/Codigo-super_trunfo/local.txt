@@ -1,1 +1,1 @@
-
+https://github.com/Tati-BS/Jogo_Super_Trunfo_em_C/blob/905ab7cc13234d4cde98e4bbf53d326fef9ef683/Modulo_1/Novato/Codigo-super_trunfo/super_trunfo.c

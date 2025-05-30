@@ -6,7 +6,7 @@ int main(){
 
     //Carta 01//
 
-    char estado1[10];
+    char estado1;
     char codigodacarta1[10];
     char nomedaCidade1[10];
     int populacao1;
@@ -16,7 +16,7 @@ int main(){
 
 //Carta 02//
 
-    char estado2[10];
+    char estado2;
     char codigodacarta2[10];
     char nomedaCidade2[10];
     int populacao2;

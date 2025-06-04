@@ -1,1 +1,1 @@
-https://github.com/Tati-BS/Jogo_Super_Trunfo_em_C.git
+https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-Tati-BS
